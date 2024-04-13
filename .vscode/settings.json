@@ -1,0 +1,6 @@
+{
+    "html.preview.markEditorSelection": true,
+    "html.preview.scrollEditorWithPreview": true,
+    "html.preview.scrollPreviewWithEditor": false,
+    "html.preview.doubleClickToSwitchToEditor": false
+}
